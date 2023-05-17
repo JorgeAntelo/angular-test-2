@@ -1,0 +1,9 @@
+.small-container {
+  max-width: 520px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  box-shadow: 10px 10px 5px grey;
+}
